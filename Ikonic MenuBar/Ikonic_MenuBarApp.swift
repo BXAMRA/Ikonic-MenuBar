@@ -2,7 +2,7 @@
 //  Ikonic_MenuBarApp.swift
 //  Ikonic MenuBar
 //
-//  Created by Jass Bhamra on 2025-08-29.
+//  Created by BXAMRA on 2025-08-29.
 //
 
 import SwiftUI
