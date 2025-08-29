@@ -65,7 +65,7 @@ System Settings → Users & Groups → Login Items
 1. Clone the repo:
 
 ```bash
- git clone https://github.com/yourusername/ikonic-menubar.git
+ git clone https://github.com/BXAMRA/Ikonic-MenuBar.git
 ```
 
 2. Open the project:
@@ -98,4 +98,4 @@ MIT License — feel free to use, modify, or contribute.
 ## 🙌 Credits
 
 Made with ❤️ using Swift and AppKit
-by BXAMRA
+by [BXAMRA](https://github.com/BXAMRA)
